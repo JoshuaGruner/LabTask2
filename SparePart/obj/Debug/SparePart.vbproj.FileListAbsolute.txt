@@ -1,0 +1,14 @@
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\bin\Debug\SparePart.exe.config
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\bin\Debug\SparePart.exe
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\bin\Debug\SparePart.pdb
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\bin\Debug\SparePart.xml
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.vbprojResolveAssemblyReference.cache
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.Resources.resources
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.vbproj.GenerateResource.Cache
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.exe
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.xml
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.pdb
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.Form1.resources
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.Form2.resources
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.Form3.resources
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\SparePart\SparePart\obj\Debug\SparePart.SplashScreen1.resources
